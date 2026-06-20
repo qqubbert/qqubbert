@@ -1,8 +1,3 @@
-qqubbert
-# Frontend developer
-- крашу кнопки и формочки
-```
-console.log("Hello World!")
-```
+# Frontend developer React
 
-![alt text](./coolCat.jpg)
+Frontend Developer focused on building modern web applications with React and TypeScript. I enjoy solving complex UI challenges, designing scalable application architectures, and exploring new technologies.
